@@ -1,6 +1,6 @@
 {
-	"author": "Minh Ha",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Minh Ha",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
